@@ -33,6 +33,6 @@ jobs:
           node-version: "26.8"
           cache: "pnpm"
       - name: Install dependencies
-        run: pnpm install
+        run: pnpm install --prod
       - name: Run test suite
         run: pnpm run test
