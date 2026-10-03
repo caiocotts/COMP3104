@@ -1,0 +1,22 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiocotts/COMP3104.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/caiocotts/COMP3104/issues"
+  },
+  "homepage": "https://github.com/caiocotts/COMP3104#readme",
+  "devDependencies": {
+    "@biomejs/biome": "^2.5.15"
+  }
+}
