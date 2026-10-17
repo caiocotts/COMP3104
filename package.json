@@ -14,6 +14,7 @@
 		"type": "git",
 		"url": "git+https://github.com/caiocotts/COMP3104.git"
 	},
+	"homepage": "https://caiocotts.github.io/COMP3104",
 	"keywords": [],
 	"type": "module",
 	"bugs": {
